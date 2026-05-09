@@ -1,6 +1,6 @@
 # S6 Software Installation Restriction Removal Tool
 
-Tool for removing software installation restrictions on Samsung S6 devices.
+Tool for removing software installation restrictions on bbk S6 devices.
 
 ## Contents
 
